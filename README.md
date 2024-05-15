@@ -4,3 +4,5 @@
 * LL Model : HuggingFaceH4/zephyr-7b-beta
 * Local documents in pdf
 
+Notebooks are in Colab
+
